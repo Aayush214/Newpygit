@@ -1,5 +1,5 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/Aayush1003/Newpygit.git" />
+    <option name="myPathToGit" value="https://gitlab.com/apliai.iitb/website.git" />
   </component>
 </application>
